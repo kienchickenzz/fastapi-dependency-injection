@@ -1,0 +1,6 @@
+# Dependencies
+**/.venv/
+uv.lock
+
+# Build
+__pycache__/
